@@ -1,7 +1,7 @@
 ### Olá, me chamo Rafael Varela 👋💻
 
 ## Sobre mim ❓
-Sou um estudante de primeiro periodo, na Cesar School em Sistema de Informação.
+Sou um estudante de primeiro periodo, na Cesar School em Sistema de Informação.  
 Tenho 17 anos e falo 3 linguas: Portugues 🇧🇷, Frances 🇫🇷 e Ingles 🇺🇸.
 
 <div align="center"> 
