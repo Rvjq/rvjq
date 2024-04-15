@@ -2,7 +2,7 @@
 
 ## Sobre mim ❓
 Sou um estudante de primeiro periodo, na Cesar School em Sistema de Informação.  
-Tenho 17 anos e falo 3 linguas: Portugues ![Brazil flag](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png), Frances 🇫🇷 e Ingles 🇺🇸.
+Tenho 17 anos e falo 3 linguas: Portugues ![Brazil flag](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png), Frances ![French flag](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png) e Ingles ![US flag](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png).
 
 <div align="center"> 
   <hr>
