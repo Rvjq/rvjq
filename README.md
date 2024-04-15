@@ -11,7 +11,7 @@ Tenho 17 anos e falo 3 linguas: Portugues 🇧🇷, Frances 🇫🇷 e Ingles �
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvjq&layout=compact&theme=tokyonight&locale=pt-br">
 </div>
 
-## Ferramentas e Tecnologias
+## Tecnologias que eu utilizo:
 
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -20,7 +20,7 @@ Tenho 17 anos e falo 3 linguas: Portugues 🇧🇷, Frances 🇫🇷 e Ingles �
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
 </div>
 
-## Estou aprendendo
+## Estou aprendendo:
 
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
