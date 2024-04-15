@@ -1,5 +1,6 @@
 ### Olá, me chamo Rafael Varela 👋
 <div align="center"> 
+  <hr>
   <a href="https://github.com/rvjq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rvjq&show_icons=true&theme=tokyonight&locale=pt-br">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvjq&layout=compact&theme=tokyonight&locale=pt-br">
