@@ -1,4 +1,4 @@
-<p align="center">Olá, me chamo Rafael Varela 👋</p>
+###Olá, me chamo Rafael Varela 👋
 <div align="center"> 
   <a href="https://github.com/rvjq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rvjq&show_icons=true&theme=tokyonight&locale=pt-br">
